@@ -8,3 +8,18 @@ ToDo
 - Check for information on what each need and categorize accordingly
 - Outline them in a column
 - Visualize 
+
+
+Role V Need
+Startup Stage and Regional Distribution
+AI Interest by Role
+Geographic Investment Interests
+AI Needs of Investors
+Top 10 Tools Used by Freelancers
+User Categories
+DAO Solutions Demand
+What Do People Need?
+
+Package all this into a README.md report or deck
+
+Build an interactive dashboard Streamlit
