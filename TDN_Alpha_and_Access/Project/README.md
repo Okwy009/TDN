@@ -154,7 +154,39 @@ We used the following methods:
 
 ## 🔁 How to Reproduce
 
-1. Clone the repository and install requirements:
+   1. Clone the repository and install requirements:
 
-   ```bash
-   pip install pandas seaborn matplotlib wordcloud
+      ```bash
+      pip install pandas seaborn matplotlib wordcloud
+
+   2. Place the Excel file:
+      ```
+      /your_project_directory/
+      └── AI_Showcase_Virtual_Conf_Full_attendee_list.xlsx
+      ```
+
+   3. Run the analysis script:
+      ```
+      python your_analysis_script.py
+      ```
+
+   4. Outputs will be saved in:
+         ```
+         /Cleaned_Data/
+         /images/
+         ```
+
+## 🙌 **Credits & Tools Used**
+Project by: [Data Frank](x.com/Okwy_Kwituxy)
+
+Data from: The DAO Network / AI Showcase Virtual Conference
+
+Libraries Used:
+
+pandas for data manipulation
+
+matplotlib, seaborn for visualizations
+
+Counter, re for text parsing
+
+wordcloud for future visual summary
