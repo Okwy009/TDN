@@ -1,0 +1,42 @@
+- Google forms sourcing information
+
+- What Describes you: [Founder/Startup, Talent/Job Seeker, Recruiter, Investor]
+	- Founder/Startups: 'What stage are you in?' [List of Stages] [networking, learning, opportunities, knowledge, ecosystem, understand, funding]
+	- Talent/Job Seeker: 'What's your experrience level?' [List of Experience][learn, network, connect, grow, industry, business]
+	- Recruiter: 'Seeking Talents, Seeking roles, Seeking collaboration'[List]
+	- Investors: [investors, founders, meet, connect, angel investors, vcs]
+
+- What are your expectations from this event (select all that apply)
+	- [
+    "Meeting fellow founders/entrepreneurs",
+    "Connecting with potential investors",
+    "Finding a co-founder or team members",
+    "Connecting with potential partners or collaborators",
+    "Finding talent for open roles",
+    "General networking",
+    "Learning about specific market trends (e.g., FinTech, Agri-Tech)",
+    "Gaining insights into fundraising strategies",
+    "Learning new technical skills (e.g., AI, data science)",
+    "Hearing from experienced founders/investors",
+    "Participating in hands-on workshops",
+    "Pitching my startup to investors",
+    "Finding potential seed or Series A investors",
+    "Understanding the fundraising process",
+    "Meeting angels or high-net-worth individuals",
+    "Exploring new investment opportunities (for investors)",
+    "Showcasing my company/brand",
+    "Media exposure or PR opportunities",
+    "Something else (please specify)"
+]
+
+
+- Don't ask for wallet address
+
+	
+
+- Ensure Consistent Formatting
+
+
+
+
+
